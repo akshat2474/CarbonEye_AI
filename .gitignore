@@ -2,3 +2,4 @@ venv/
 satellite_images/
 satellite_images_ndvi/
 deforestation_model_custom_ndvi.h5
+deforestation_model_custom_ndvi.h5
