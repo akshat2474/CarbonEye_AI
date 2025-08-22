@@ -1,0 +1,9 @@
+tensorflow
+pandas
+scikit-learn
+Pillow
+requests
+sentinelhub>=3.10
+eo-learn
+matplotlib
+seaborn
